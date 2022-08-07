@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **tailwind**
 
+- 💬 Ask me about **python**
+
+- 📫 How to reach me **mmaruna2013@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
