@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A student of information technologies</h3>
 
+- 🔭 I’m currently working on **React CV**
+
 - 🌱 I’m currently learning **tailwind**
 
 - 💬 Ask me about **python**
