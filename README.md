@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
-<h3 align="center">A passionate full-stack developer from Cratia</h3>
+<h3 align="center">A passionate full-stack developer from Croatia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marki2121" alt="marki2121" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on **spring-boot**
+- 👯 I’m looking to collaborate on **spring**
 
 - 🤝 I’m looking for help with **spring**
 
